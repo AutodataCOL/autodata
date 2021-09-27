@@ -1,0 +1,14 @@
+._style {
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: #075b80;
+    border: 0;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 0.75px;
+}
+
+._style:hover {
+    background-color: #084B69;
+}

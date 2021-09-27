@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #EDEDF0;
+    padding: 10px 12px;
+}
+
+.container > div p {
+    font-size: 14px;
+    margin: 2px 0;
+    color: #727276;
+}
+
+.container div:nth-child(2) {
+    align-self: center;
+}

@@ -1,0 +1,27 @@
+._style {
+    height: 100%;
+    display: flex;
+}
+
+.container {
+    height: 100%;
+    width: 25%;
+    background-color: #075b80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container p {
+    color: #E8E8EC;
+    font-weight: 500;
+}
+
+.container:hover {
+    background-color: #084B69;
+    cursor: pointer;
+}
+
+.active {
+    background-color: #084B69;
+}

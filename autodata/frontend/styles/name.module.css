@@ -1,0 +1,17 @@
+._container {
+    display: flex;
+}
+
+._container h1 {
+    font-weight: 500;
+}
+
+._container h1:nth-child(1) {
+    font-weight: 500;
+    color: #075b80;
+}
+
+._container h1:nth-child(2) {
+    font-weight: 300;
+    color: #1B9CD5;
+}
